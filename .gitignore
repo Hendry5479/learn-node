@@ -1,2 +1,3 @@
-./test.js
-./coderhub.js
+#ignore these files
+*.js
+runtime/*
